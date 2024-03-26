@@ -1,0 +1,11 @@
+
+export default function page() {
+  return (
+    <div className='max-w-6xl mx-auto p-3 space-y-4'>
+<h1 className='text-2xl font-medium text-amber-600'>About</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ratione dolorem rem suscipit praesentium aut ab modi sint. Repudiandae, dolorum neque nam, eligendi porro voluptatem eaque exercitationem voluptate dolores fugiat totam sed maxime accusamus aspernatur necessitatibus ipsam. Minima autem, quae molestias eligendi blanditiis vel velit maxime quos veritatis laborum minus impedit explicabo natus, voluptatem voluptas quas provident repudiandae deserunt ullam consequatur quam ad temporibus reiciendis pariatur? Optio praesentium officiis quos ut dolorem sed expedita ducimus eveniet suscipit, hic accusantium fuga dolorum voluptatem voluptatibus nesciunt quibusdam magni a cumque quisquam, labore quia, consectetur sit! Consectetur ea delectus, aspernatur minima nesciunt nihil.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex in labore quis, incidunt natus architecto delectus aut possimus veniam beatae!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto unde praesentium saepe? Iste dolorem nihil explicabo provident error totam pariatur, tempore deleniti ducimus minus odit, quasi ipsa quia vitae. Voluptate sint, dicta, a cum id aliquid officia totam, impedit voluptas dolorum distinctio dolores repudiandae fugit ducimus fugiat eligendi praesentium labore blanditiis! Illum doloribus cum adipisci at eos. Labore iure neque quisquam doloribus unde culpa praesentium ea, modi deserunt! Amet ducimus voluptatum repellat temporibus, repudiandae quisquam necessitatibus iste quis quidem totam impedit dicta ipsam aperiam veritatis reiciendis voluptas porro eaque doloribus consequatur fugit vel. Eum unde, accusamus corporis sapiente quam quibusdam similique repellat atque, error corrupti ipsam amet tempora, repellendus voluptatibus doloremque dolor rem provident maxime id possimus nam! Ut fuga doloribus ab itaque voluptates esse quam cupiditate exercitationem, inventore recusandae, odit eveniet laboriosam eum! Vitae repellendus, suscipit dolore tempora ut odit ea exercitationem in dolores fugiat ab, ad deserunt recusandae?</p>
+    </div>
+  )
+}
