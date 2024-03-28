@@ -11,13 +11,13 @@ export default function Results({ results }) {
             <div className="px-4 py-3 w-72">
                 <span className="text-gray-400 mr-3 uppercase text-xs">{result.original_language}</span>
                 <h2 className="text-lg font-bold text-black truncate block capitalize">{result.original_title}</h2>
-                <div className="flex items-center">
+                <div className="flex flex-col items-start justify-items-center">
+                    <div className="flex flex-row justify-between">
                     <p className="text-lg font-semibold text-black cursor-auto my-3">{result.vote_average}</p>
-                    <div>
-                        <p className="text-sm text-gray-600 cursor-auto ml-2">{result.vote_count}</p>
+                    <p className="text-sm text-gray-600 cursor-auto ml-2 my-3">{result.vote_count}</p>
                     </div>
                     <div className="ml-auto w-fit">
-                        <p>
+                        <p className="text-gray-600">
                             {result.overview}
                         </p>
                     </div>
